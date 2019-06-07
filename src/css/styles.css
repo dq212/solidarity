@@ -1,0 +1,34 @@
+body {
+  width: 100%;
+}
+
+.anim-holder {
+  margin: 0 auto;
+  display: block;
+  position: relative;
+  width: 400px;
+  height: 300px;
+}
+
+#solidarity {
+  padding: 20px;
+  position: relative;
+  width: 400px;
+  height: 110px;
+  margin: 0 auto;
+  display: block;
+}
+
+#rainbow-holder {
+  position: absolute;
+  display: block;
+  margin: 0 auto;
+}
+
+#rainbow {
+  position: relative;
+  width: 400px;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
