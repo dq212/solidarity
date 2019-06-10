@@ -19,10 +19,17 @@ body {
   display: block;
 }
 
+#letters {
+  width:400px;
+  height:auto;
+  display:block;
+}
+
 #rainbow-holder {
   position: absolute;
   display: block;
   margin: 0 auto;
+  visibility: hidden;
 }
 
 #rainbow {
