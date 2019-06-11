@@ -11,18 +11,27 @@ body {
 }
 
 #solidarity {
-  padding: 20px;
+  padding: 30px 0 0 0;
   position: relative;
   width: 400px;
   height: 110px;
+  margin: 10px auto;
+  display: block;
+}
+
+#stonewall {
+  position: relative;
+  width: 400px;
+  height: 110px;
+
   margin: 0 auto;
   display: block;
 }
 
 #letters {
-  width:400px;
-  height:auto;
-  display:block;
+  width: 400px;
+  height: auto;
+  display: block;
 }
 
 #rainbow-holder {
